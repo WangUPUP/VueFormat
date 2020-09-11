@@ -1,0 +1,29 @@
+{
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.settings.editor": "json",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "prettier.requireConfig": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize":4,
+  "vetur.validation.template": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}
